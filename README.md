@@ -1,2 +1,2 @@
-# hci-model
-This is the model for detecting moods
+# Skin-Disease-Detection
+This is the model for detecting skin diseases
